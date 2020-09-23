@@ -15,7 +15,7 @@ Freelancer. Looking for new projects
 * Version Control [C#] [Link](https://github.com/petarnikolovprojects/PeVC)
 * Object detection - Training and Validation [Python, YOLO] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
 * Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
-* Old Style Console Games [C/CPP] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
+* Old Style Console Games [C/C++] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
 
 ### Contact:
 * **e-mail:** p.bijev@gmail.com
