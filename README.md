@@ -10,27 +10,27 @@ My main fields of interests are: Machine Learning, Deep Learning, Computer Visio
 Freelancer. Looking for new projects
 
 ### Projects list: [Under construction]
-* Home automation [C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
-* Computer Vision library [C#, C++] [NoCode, Description] [Link](https://github.com/petarnikolovprojects/CVLibrary)
-* ML Microservices architecture [Python, RabbitMQ, Docker] [NoCode, Description] [Link]()
-* NLP data processor and Grid search for best classifier [Python] [Partial code, Description] [Link] ()
-* Version Control [C#] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/PeVC)
-* Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Code, Description] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
-* Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
-* Reflection removal [C++, OpenCV] [NoCode, Description] [Link]()
-* Optical Character Recognition library. OCR [Python, OpenCV] [NoCode, Description] [Link]()
-* Guitar chords - Pattern recognition [C#, Kinect, EmguCV] [NoCode, Description] [Link]()
-* Computer Vision library - GUI. CVPaint [C#, EmguCV] [NoCode, Description] [Link]()
-* Vehicles and Pedestrians Tracking [C++, OpenCV, Postgres] [NoCode, Description] [Link]()
-* Car plate detection and OCR [C++, OpenCV, Postgres] [NoCode, Description] [Link]()
-* Skin imperfections segmentation from microscope images [C#, EmguCV] [NoCode, Description] [Link]()
-* Object detection from Aerial / Satellite images [C#, Python, EmguCV] [NoCode, Description] [Link]()
-* Vehicles classification in night conditions [C++] [NoCode, Description] [Link]()
-* Old Style Console Games [C/C++] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
+* **Home automation** _[C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Partial code, Description]_ [Link](https://github.com/petarnikolovprojects/HomeAutomation)
+* **Computer Vision library** _[C#, C++] [NoCode, Description]_ [Link](https://github.com/petarnikolovprojects/CVLibrary)
+* **ML Microservices architecture** _[Python, RabbitMQ, Docker] [NoCode, Description]_ [Link]()
+* **NLP data processor and Grid search for best classifier** _[Python] [Partial code, Description]_ [Link] ()
+* **Version Control** _[C#] [Partial code, Description]_ [Link](https://github.com/petarnikolovprojects/PeVC)
+* **Object detection - Training and Validation** _[Python, Darknet, YOLO, OpenCV] [Code, Description]_ [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
+* **Server-Client communication** _[C#, Python, TCP, Kafka, RabbitMQ] [Partial code, Description]_ [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
+* **Reflection removal** _[C++, OpenCV] [NoCode, Description]_ [Link]()
+* **Optical Character Recognition library. OCR** _[Python, OpenCV] [NoCode, Description]_ [Link]()
+* **Guitar chords - Pattern recognition** _[C#, Kinect, EmguCV] [NoCode, Description]_ [Link]()
+* **Computer Vision library - GUI. CVPaint** _[C#, EmguCV] [NoCode, Description]_ [Link]()
+* **Vehicles and Pedestrians Tracking** _[C++, OpenCV, Postgres] [NoCode, Description]_ [Link]()
+* **Car plate detection and OCR** _[C++, OpenCV, Postgres] [NoCode, Description]_ [Link]()
+* **Skin imperfections segmentation from microscope images** _[C#, EmguCV] [NoCode, Description]_ [Link]()
+* **Object detection from Aerial / Satellite images** _[C#, Python, EmguCV] [NoCode, Description]_ [Link]()
+* **Vehicles classification in night conditions** _[C++] [NoCode, Description]_ [Link]()
+* **Old Style Console Games** _[C/C++] [Partial code, Description]_ [Link](https://github.com/petarnikolovprojects/ConsoleGames)
 
 ### Contact:
-* **e-mail:** p.bijev@gmail.com
-* **phone:** +359 888 463 503
+* **E-mail:** p.bijev@gmail.com
+* **Phone:** +359 888 463 503
 * **LinkedIn:** [Link](https://www.linkedin.com/in/petyr-nikolov-a6463928/)
 
 ### Keywords and Technologies:
