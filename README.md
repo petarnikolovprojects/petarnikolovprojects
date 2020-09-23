@@ -10,11 +10,19 @@ My main fields of interests are: Machine Learning, Deep Learning, Computer Visio
 Freelancer. Looking for new projects
 
 ### Projects list: [Under construction]
-* Home automation [C#, Python, Flask, RabbitMQ, Postgres] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
+* Home automation [C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
 * Computer Vision library [C#, C++] [Link](https://github.com/petarnikolovprojects/CVLibrary)
 * Version Control [C#] [Link](https://github.com/petarnikolovprojects/PeVC)
-* Object detection - Training and Validation [Python, YOLO] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
+* Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
 * Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
+* Reflection removal [C++, OpenCV] [NoCode, Description] [Link]()
+* Guitar chords - Pattern recognition [C#, Kinect, EmguCV] [NoCode, Description] [Link]()
+* Computer Vision library - GUI. CVPaint [C#, EmguCV] [NoCode, Description] [Link]()
+* Vehicles and Pedestrians Tracking [C++, OpenCV, Postgres] [NoCode, Description] [Link]()
+* Car plate detection and OCR [C++, OpenCV, Postgres] [NoCode, Description] [Link]()
+* Skin imperfections segmentation from microscope images [C#, EmguCV] [NoCode, Description] [Link]()
+* Object detection from Aerial / Satellite images [C#, Python, EmguCV] [NoCode, Description] [Link]()
+* Vehicles classification in night conditions [C++] [NoCode, Description] [Link]()
 * Old Style Console Games [C/C++] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
 
 ### Contact:
