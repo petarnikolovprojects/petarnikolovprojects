@@ -13,6 +13,7 @@ Freelancer. Looking for new projects
 * Home automation [C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
 * Computer Vision library [C#, C++] [NoCode, Description] [Link](https://github.com/petarnikolovprojects/CVLibrary)
 * ML Microservices architecture [Python, RabbitMQ, Docker] [NoCode, Description] [Link]()
+* NLP data processor and Grid search for best classifier [Python] [Partial code, Description] [Link] ()
 * Version Control [C#] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/PeVC)
 * Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Code, Description] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
 * Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
