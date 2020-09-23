@@ -10,12 +10,12 @@ My main fields of interests are: Machine Learning, Deep Learning, Computer Visio
 Freelancer. Looking for new projects
 
 ### Projects list: [Under construction]
-* Home automation [C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
-* Computer Vision library [C#, C++] [Link](https://github.com/petarnikolovprojects/CVLibrary)
+* Home automation [C#, Python, Flask, RabbitMQ, Postgres, OpenCV] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
+* Computer Vision library [C#, C++] [NoCode, Description] [Link](https://github.com/petarnikolovprojects/CVLibrary)
 * ML Microservices architecture [Python, RabbitMQ, Docker] [NoCode, Description] [Link]()
-* Version Control [C#] [Link](https://github.com/petarnikolovprojects/PeVC)
-* Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
-* Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
+* Version Control [C#] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/PeVC)
+* Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Code, Description] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
+* Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
 * Reflection removal [C++, OpenCV] [NoCode, Description] [Link]()
 * Optical Character Recognition library. OCR [Python, OpenCV] [NoCode, Description] [Link]()
 * Guitar chords - Pattern recognition [C#, Kinect, EmguCV] [NoCode, Description] [Link]()
@@ -25,7 +25,7 @@ Freelancer. Looking for new projects
 * Skin imperfections segmentation from microscope images [C#, EmguCV] [NoCode, Description] [Link]()
 * Object detection from Aerial / Satellite images [C#, Python, EmguCV] [NoCode, Description] [Link]()
 * Vehicles classification in night conditions [C++] [NoCode, Description] [Link]()
-* Old Style Console Games [C/C++] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
+* Old Style Console Games [C/C++] [Partial code, Description] [Link](https://github.com/petarnikolovprojects/ConsoleGames)
 
 ### Contact:
 * **e-mail:** p.bijev@gmail.com
