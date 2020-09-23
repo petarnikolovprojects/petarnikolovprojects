@@ -10,7 +10,7 @@ My main fields of interests are: Machine Learning, Deep Learning, Computer Visio
 Freelancer. Looking for new projects
 
 ### Projects list:
-* Home automation [C#, Python, Flask, RabbitMQ] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
+* Home automation [C#, Python, Flask, RabbitMQ, Postgres] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
 * Computer Vision library [C#, C++] [Link](https://github.com/petarnikolovprojects/CVLibrary)
 * Version Control [C#] [Link](https://github.com/petarnikolovprojects/PeVC)
 * Object detection - Training and Validation [Python, YOLO] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
@@ -23,7 +23,7 @@ Freelancer. Looking for new projects
 * **LinkedIn:** [Link](https://www.linkedin.com/in/petyr-nikolov-a6463928/)
 
 ### Keywords and Technologies:
-ML, Machine Learning, Deep Learning, Computer Vision, Image Processing, C, C++, C#, Python, Agile, Jira, Git, Kafka, RabbitMQ, Docker, AWS, Kinect, Raspberry Pi, Nvidia Jetson, Opencv, Tensorflow, PyTorch, Keras, scikit-learn, pandas, numpy, pattern recognition, object detection, object segmentation, object tracking, NLP, Audio processing, Image homography, feature detection, feature matching.
+ML, Machine Learning, Deep Learning, Computer Vision, Image Processing, C, C++, C#, Python, Postgres, SQL, MongoDB, ElasticSearch, Agile, Jira, Git, Kafka, RabbitMQ, Docker, AWS, Kinect, Raspberry Pi, Nvidia Jetson, Opencv, Tensorflow, PyTorch, Keras, scikit-learn, pandas, numpy, pattern recognition, object detection, object segmentation, object tracking, NLP, Audio processing, Image homography, feature detection, feature matching.
 
 ### Note:
 All repositories are edited in a way not to disclose any client information. The idea is to show programming skills, architecture patterns and what technologies are used.
