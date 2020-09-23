@@ -1,7 +1,7 @@
 ## Welcome to my Github page
 
 ### Bio:
-I am a software developer with more than 9 years of experience in Computer Vision and Image processing algorithms and I am writing in C/C++/C# and Python.
+I am a software developer with more than 9 years of experience in Computer Vision and Image processing algorithms. I am using in C++, C# and Python programming languages.
 My main fields of interests are: Machine Learning, Deep Learning, Computer Vision, Image processing, NLP, Audio analysis, speech recognition, object detection and tracking, image segmentation, camera calibration and object tracking in 3D, Neural networks and Pattern recognition. 
 
 * A link to my **CV** containing a more detailed list of my projects and experience: [Link](https://github.com/petarnikolovprojects/petarnikolovprojects/blob/master/PetarNikolov_CV.pdf)
@@ -16,6 +16,7 @@ Freelancer. Looking for new projects
 * Object detection - Training and Validation [Python, Darknet, YOLO, OpenCV] [Link](https://github.com/petarnikolovprojects/YOLO_TrainerValidator)
 * Server-Client communication [C#, Python, TCP, Kafka, RabbitMQ] [Link](https://github.com/petarnikolovprojects/ServerClientsCommunication)
 * Reflection removal [C++, OpenCV] [NoCode, Description] [Link]()
+* Optical Character Recognition library. OCR [Python, OpenCV] [NoCode, Description] [Link]()
 * Guitar chords - Pattern recognition [C#, Kinect, EmguCV] [NoCode, Description] [Link]()
 * Computer Vision library - GUI. CVPaint [C#, EmguCV] [NoCode, Description] [Link]()
 * Vehicles and Pedestrians Tracking [C++, OpenCV, Postgres] [NoCode, Description] [Link]()
