@@ -9,7 +9,7 @@ My main fields of interests are: Machine Learning, Deep Learning, Computer Visio
 ### Status: 
 Freelancer. Looking for new projects
 
-### Projects list:
+### Projects list: [Under construction]
 * Home automation [C#, Python, Flask, RabbitMQ, Postgres] [Link](https://github.com/petarnikolovprojects/HomeAutomation)
 * Computer Vision library [C#, C++] [Link](https://github.com/petarnikolovprojects/CVLibrary)
 * Version Control [C#] [Link](https://github.com/petarnikolovprojects/PeVC)
