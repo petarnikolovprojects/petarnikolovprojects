@@ -35,4 +35,4 @@ ML, Machine Learning, Deep Learning, Computer Vision, Image Processing, C, C++, 
 
 ### Note:
 All repositories are edited in a way not to disclose any client information. The idea is to show programming skills, architecture patterns and what technologies are used.
-
+Some projects contain only Readme file describing the idea, algorithms and the project structure.
