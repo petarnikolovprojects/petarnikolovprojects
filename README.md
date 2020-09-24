@@ -40,3 +40,7 @@ ML, Machine Learning, Deep Learning, Computer Vision, Image Processing, C, C++, 
 ### Note:
 All repositories are edited in a way not to disclose any client information. The idea is to show programming skills, architecture patterns and what technologies are used.
 Some projects contain only Readme file describing the idea, algorithms and the project structure.
+
+### Support:
+You can support a regular update of the existing projects or the addition of new ones here: 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3437PCJEHDKHS)
