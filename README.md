@@ -67,3 +67,9 @@ Some projects contain only Readme file describing the idea, algorithms and the p
 ### Support:
 You can support a regular update of the existing projects or the addition of new ones here: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?color=success)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3437PCJEHDKHS)
+</br>
+
+#### Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petarnikolovprojects&hide=TeX&layout=compact)
+
+[![Visits Badge](https://badges.pufler.dev/visits/petarnikolovprojects/petarnikolovprojects)](https://badges.pufler.dev)
